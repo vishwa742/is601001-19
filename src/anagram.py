@@ -19,7 +19,7 @@ if(l1==l2):
         print("Anagram")
 
     else:
-        print("Not Anagram")
+        print("Not an Anagram")
 
 else:
-    print("Not anagram")
+    print("Not an anagram")
